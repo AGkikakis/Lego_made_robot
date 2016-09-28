@@ -1,4 +1,4 @@
-# Lego_made_robot
+# Lego_robot
 
 In this project an autonomous navigated robot was constructed from LEGO and the sensors described below
 for the purpose of autonomous navigation inside a labyrinth with avoidance collision and resource
