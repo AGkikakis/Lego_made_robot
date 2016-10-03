@@ -1,4 +1,4 @@
-# Lego_robot
+# Autonomous_Navigated_Lego_robot
 
 In this project four wheeled differential steering robot was constructed from LEGO and the sensors 
 described below for the purpose of navigating autonomously inside a labyrinth will performing collision
